@@ -6,7 +6,7 @@ Suporte para o Angular 12, 13, 14, 15 e 16
 
 |  Versão Angular |  Versão Validacao-Brasil Compatível  |
 | ------------ | ------------ |
-| 12  | 12.2.1  |
+| 12  | 12.2.2  |
 | 13  | 13.3.0  |
 | 14  | 14.2.1  |
 | 15  | 15.2.0  |
